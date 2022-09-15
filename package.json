@@ -1,0 +1,26 @@
+{
+  "name": "Jokes_API",
+  "version": "1.0.0",
+  "description": "Sumnary: Server that uses MongoDb Server to supply jokes as an API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Virgilio-D-Cabading-Jr/Coding_Dojo_MERN_Stack_MongoDb_Mongoose_Jokes_API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Virgilio-D-Cabading-Jr/Coding_Dojo_MERN_Stack_MongoDb_Mongoose_Jokes_API/issues"
+  },
+  "homepage": "https://github.com/Virgilio-D-Cabading-Jr/Coding_Dojo_MERN_Stack_MongoDb_Mongoose_Jokes_API#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.7",
+    "nodemon": "^2.0.19"
+  }
+}
